@@ -1,5 +1,4 @@
-Este programa es una aplicación básica de lista de mercado en Python. Permite al usuario agregar productos a una lista, verlos, editarlos y eliminarlos. Sin embargo, tiene un problema crítico: todos los productos se almacenan en la misma referencia de diccionario producto, lo que hace que al agregar un nuevo producto, sobrescriba el anterior.
-
+Este programa es una aplicación básica de lista de mercado en Python. Permite al usuario agregar productos a una lista, verlos, editarlos y eliminarlos.
 Explicación del código:
 Inicializa variables
 
